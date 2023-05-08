@@ -81,7 +81,7 @@ class Cards extends Component {
         console.log("bookssss");
         this.getAllBooks();
     }
-
+ //This is to handleClick
     handleClick = (book) => {
         console.log("book")
         this.setState({
