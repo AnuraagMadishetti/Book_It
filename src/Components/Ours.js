@@ -10,7 +10,7 @@ class  Ours extends Component{
 
    render(){
 
-
+    //this is the about us code
     return (
         
        
