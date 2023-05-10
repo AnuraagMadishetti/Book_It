@@ -13,7 +13,7 @@ import ViewDetails from './Components/ViewDetails';
 
 function App() {
   return (
-   
+   //this is the routing code
     <Router>
       <>
      
