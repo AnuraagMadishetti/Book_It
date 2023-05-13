@@ -10,7 +10,7 @@ import Signin from './Components/Signin';
 import Footer from './Components/Footer';
 import ViewDetails from './Components/ViewDetails';
 
-
+//main
 function App() {
   return (
    
